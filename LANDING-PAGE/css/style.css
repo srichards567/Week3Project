@@ -1,0 +1,19 @@
+body {
+  background-color: #1224B0;
+  width: 1000px;
+  height: 1200px;
+}
+
+img {
+  max-width: 50%;
+}
+
+.logo-container {
+  text-align: center;
+}
+
+.submit {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
