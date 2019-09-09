@@ -1,0 +1,58 @@
+header {
+  background-color: white;
+  color: #C15827;
+}
+
+body {
+  background-color: #03FCC6;
+}
+
+header {
+   background-color: #1224B0;
+}
+
+nav {
+  display: flex;
+  justify-content: space-around;
+}
+
+nav a {
+  display: inline-block;
+  padding: 10px;
+  text-decoration: none;
+  font-size: 20px;
+  color: #C15827;
+  text-align: center;
+}
+.content-wrapper {
+  margin: 10px auto;
+  display: grid;
+  height: 200px;
+  width: 550px;
+  overflow: scroll;
+  padding-bottom: 10px;
+  border: 3px solid black;
+}
+
+footer p {
+  text-align: center;
+}
+/*#profileinfo {
+  width: 100px;
+  height: 400px;
+}*/
+
+/*.first-post, .second-post, .third-post {
+  border-width: 600px;
+  border-top: 100px;
+  /*padding: 50px;*/
+  /*border-color: gray;*/
+}
+
+/*.second-post {
+
+}
+
+.third-post {
+
+}*/
